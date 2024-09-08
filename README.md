@@ -36,8 +36,7 @@ This will generate an executable file named web-server in the current directory.
 
 After building the executable, you can start the server by running:
 
-```
-bash
+```bash
 ./web-server
 ```
 
